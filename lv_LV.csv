@@ -3599,7 +3599,7 @@ Password,Password,module,Magento_Customer
 "Address Information","Address Information",module,Magento_Customer
 "Sign-in Information","Sign-in Information",module,Magento_Customer
 "Confirm Password","Confirm Password",module,Magento_Customer
-"Create an Account","Create an Account",module,Magento_Customer
+"Create an Account",Reģistrēties,module,Magento_Customer
 "Set a New Password","Set a New Password",module,Magento_Customer
 "You have signed out and will go to our homepage in 5 seconds.","You have signed out and will go to our homepage in 5 seconds.",module,Magento_Customer
 "New Customers","New Customers",module,Magento_Customer
@@ -3958,7 +3958,7 @@ Email,E-pasts,module,Magento_CustomerCustomAttributes
 "Sign-in Information","Sign-in Information",module,Magento_CustomerCustomAttributes
 Password,Password,module,Magento_CustomerCustomAttributes
 "Confirm Password","Confirm Password",module,Magento_CustomerCustomAttributes
-"Create an Account","Create an Account",module,Magento_CustomerCustomAttributes
+"Create an Account",Reģistrēties,module,Magento_CustomerCustomAttributes
 Back,Atpakaļ,module,Magento_CustomerCustomAttributes
 "Customer Address","Customer Address",module,Magento_CustomerCustomAttributes
 "Default Values","Default Values",module,Magento_CustomerCustomAttributes
