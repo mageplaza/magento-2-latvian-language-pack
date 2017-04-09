@@ -34,7 +34,7 @@ Install the Latvian language pack via composer is never easier.
 **Install Latvian pack**:
 
 ```
-composer require mageplaza/magento-2-latvian-language-pack:*
+composer require mageplaza/magento-2-latvian-language-pack:dev-master
 php bin/magento cache:clean
 php bin/magento setup:static-content:deploy lv-lv
 
@@ -44,7 +44,7 @@ php bin/magento setup:static-content:deploy lv-lv
 **Update  Latvian pack**:
 
 ```
-composer update mageplaza/magento-2-latvian-language-pack:*
+composer update mageplaza/magento-2-latvian-language-pack:dev-master
 php bin/magento cache:clean
 php bin/magento setup:static-content:deploy lv-lv
 
