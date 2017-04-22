@@ -2728,6 +2728,7 @@ Payment,Apmaksa,module,Magento_Checkout
 "Not yet calculated","Vēl nav aprēķināts",module,Magento_Checkout
 "We received your order!","Mēs saņēmām jūsu pasūtījumu!",module,Magento_Checkout
 "Thank you for your purchase!","Paldies par pirkumu!",module,Magento_Checkout
+"Go to Checkout","Noformēt pirkumu",module,Magento_Checkout
 "Terms and Conditions","Noteikumi un Nosacījumi",module,Magento_CheckoutAgreements
 "Add New Condition","Pievienot Jaunu Nosacījumu",module,Magento_CheckoutAgreements
 "Save Condition","Save Condition",module,Magento_CheckoutAgreements
