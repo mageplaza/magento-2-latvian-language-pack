@@ -2729,6 +2729,9 @@ Payment,Apmaksa,module,Magento_Checkout
 "We received your order!","Mēs saņēmām jūsu pasūtījumu!",module,Magento_Checkout
 "Thank you for your purchase!","Paldies par pirkumu!",module,Magento_Checkout
 "Go to Checkout","Noformēt pirkumu",module,Magento_Checkout
+"View and edit cart","Skatīt un labot pirkuma grozu",module,Magento_Checkout
+"Item in Cart","Prece grozā",module,Magento_Checkout
+"Items in Cart","Preces grozā",module,Magento_Checkout
 "Terms and Conditions","Noteikumi un Nosacījumi",module,Magento_CheckoutAgreements
 "Add New Condition","Pievienot Jaunu Nosacījumu",module,Magento_CheckoutAgreements
 "Save Condition","Save Condition",module,Magento_CheckoutAgreements
@@ -6312,6 +6315,7 @@ Partners,Partneri,module,Magento_Marketplace
 "Read More","Read More",module,Magento_Marketplace
 "Partner Page","Partner Page",module,Magento_Marketplace
 "No partners were found","No partners were found",module,Magento_Marketplace
+"Find Partners & Extensions","Find Partners & Extensions",module,Magento_Marketplace
 Synchronize,Sinhronizēt,module,Magento_MediaStorage
 "Synchronizing %1 to %2","Synchronizing %1 to %2",module,Magento_MediaStorage
 Synchronizing...,Synchronizing...,module,Magento_MediaStorage
