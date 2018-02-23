@@ -1,6 +1,6 @@
 ## Magento 2 Latvian Language Pack
 
-**Magento 2 Latvian Language Pack** will show you the simple way to interpret the default language into Latvian on the Magento 2 stores. The Latvian Language Package, the in-line translation guide, is the fastest way to translate mass localization files instead of having to locate the strings before. The data comes from translation project at Crowdin, then automatically all are delivered to the Latvian language. To install the language package on the store, please keep your eyes on this topic.
+**Magento 2 Latvian Language Pack** will show you a simple way to interpret the default language into Latvian on the Magento 2 stores. The Latvian Language Package, the in-line translation guide, is the fastest way to translate mass localization files instead of having to locate the strings before. The data comes from translation project at Crowdin, then automatically all are delivered to the Latvian language. To install the language package on the store, please keep your eyes on this topic.
 
 Read more [Magento 2 Latvian Language Pack](https://www.mageplaza.com/magento-2-latvian-language-pack.html)
 
@@ -136,6 +136,7 @@ Contribute to this language at https://crowdin.com/project/magento-2/lv
 - Magento v2.0.13
 - Magento v2.0.14
 - Magento v2.0.15
+- Magento v2.0.16
 - Magento v2.1.0
 - Magento v2.1.1
 - Magento v2.1.2
@@ -145,6 +146,10 @@ Contribute to this language at https://crowdin.com/project/magento-2/lv
 - Magento v2.1.6
 - Magento v2.1.7
 - Magento v2.1.8
+- Magento v2.1.10
+- Magento v2.2.0
+- Magento v2.2.1
+- Magento v2.2.2
 
 
 
