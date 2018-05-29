@@ -1892,7 +1892,7 @@ Required,Obligāts,module,Magento_Catalog
 "Set Product as New From","Set Product as New From",module,Magento_Catalog
 "Related Products, Up-Sells, and Cross-Sells","Related Products, Up-Sells, and Cross-Sells",module,Magento_Catalog
 "Related products are shown to customers in addition to the item the customer is looking at.","Related products are shown to customers in addition to the item the customer is looking at.",module,Magento_Catalog
-"Add Related Products","Add Related Products",module,Magento_Catalog
+"Add Related Products","Pievienot saistītos produktus",module,Magento_Catalog
 "An up-sell item is offered to the customer as a pricier or higher-quality alternative to the product the customer is looking at.","An up-sell item is offered to the customer as a pricier or higher-quality alternative to the product the customer is looking at.",module,Magento_Catalog
 "Add Up-Sell Products","Add Up-Sell Products",module,Magento_Catalog
 "Up-Sell Products","Up-Sell Products",module,Magento_Catalog
@@ -8344,6 +8344,7 @@ Action,Darbība,module,Magento_Reports
 Report,Atskaite,module,Magento_Reports
 Description,Apraksts,module,Magento_Reports
 undefined,nedefinēts,module,Magento_Reports
+"Item in Cart","Item in Cart",module,Magento_Reports
 "Save Review","Saglabāt atsauksmi",module,Magento_Review
 "New Review","Jauna atsauksme",module,Magento_Review
 "Review Details","Atsauksmes detaļas",module,Magento_Review
