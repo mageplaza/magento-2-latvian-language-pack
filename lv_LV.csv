@@ -1,20 +1,20 @@
 All,Visi,module,Magento_AdminGws
 None,Neviens,module,Magento_AdminGws
 "Allowed Scopes","Atļautie parametri",module,Magento_AdminGws
-"More permissions are needed to delete the ""%1"" item.","More permissions are needed to delete the ""%1"" item.",module,Magento_AdminGws
+"More permissions are needed to delete the ""%1"" item.","Lai nodzēstu produktu ""%1"" nepieciešamas lielākas atļaujas.",module,Magento_AdminGws
 "You need more permissions to apply some of the rule updates.","Jums nepieciešamas papildus tiesības, lai apstiprinātu noteikumu izmaiņas.",module,Magento_AdminGws
-"This entity needs to be assigned to a store view. Verify the entity assignment and try again.","This entity needs to be assigned to a store view. Verify the entity assignment and try again.",module,Magento_AdminGws
-"Orders can only be completed in an active store. Verify the store and try again.","Orders can only be completed in an active store. Verify the store and try again.",module,Magento_AdminGws
-"This item needs to be assigned to a store view. Assign item and try again.","This item needs to be assigned to a store view. Assign item and try again.",module,Magento_AdminGws
-"More permissions are needed to save this item.","More permissions are needed to save this item.",module,Magento_AdminGws
-"More permissions are needed to delete this item.","More permissions are needed to delete this item.",module,Magento_AdminGws
-"More permissions are needed to view this item.","More permissions are needed to view this item.",module,Magento_AdminGws
-"At least one website or store group needs to be selected. Select and try again.","At least one website or store group needs to be selected. Select and try again.",module,Magento_AdminGws
-"More permissions are needed to set All Scopes to a Role.","More permissions are needed to set All Scopes to a Role.",module,Magento_AdminGws
-"The ""%1"" website ID is incorrect. Verify the website ID and try again.","The ""%1"" website ID is incorrect. Verify the website ID and try again.",module,Magento_AdminGws
+"This entity needs to be assigned to a store view. Verify the entity assignment and try again.","Uzņēmumu ir jāpievieno veikala skatam. Pārbaudiet vai uzņēmums ir pievienots un mēģiniet vēlreiz.",module,Magento_AdminGws
+"Orders can only be completed in an active store. Verify the store and try again.","Pasutījumus var veikt tikai aktīvā veikalā. Pārbaudiet un mēģiniet vēlreiz.",module,Magento_AdminGws
+"This item needs to be assigned to a store view. Assign item and try again.","Šo produktu ir jāpievieno veikala skatam. Pievienojiet un mēģiniet vēlreiz.",module,Magento_AdminGws
+"More permissions are needed to save this item.","Nepieciešamas lielākas atļaujas lai saglabātu šo produktu.",module,Magento_AdminGws
+"More permissions are needed to delete this item.","Nepieciešamas lielākas atļaujas lai nodzēstu šo produktu.",module,Magento_AdminGws
+"More permissions are needed to view this item.","Nepieciešamas lielākas atļaujas lai apskatītu šo produktu.",module,Magento_AdminGws
+"At least one website or store group needs to be selected. Select and try again.","Jāizvēlas vismaz viena mājas lapa vai veikalu grupa. Izvēlieties un mēģiniet vēlreiz.",module,Magento_AdminGws
+"More permissions are needed to set All Scopes to a Role.","Nepieciešamas lielākas piekļuves tiesības lai iestatītu Darbības jomu.",module,Magento_AdminGws
+"The ""%1"" website ID is incorrect. Verify the website ID and try again.","Lapai ""%1"" ir nepareizs ID. Pārbaudiet lapas ID un mēģiniet vēlreiz.",module,Magento_AdminGws
 "You need more permissions to access website ""%1"".","Jums nepieciešama atļauja lai piekļūtu lapai ""%1"".",module,Magento_AdminGws
-"The ""%1"" store ID is incorrect. Verify the store ID and try again.","The ""%1"" store ID is incorrect. Verify the store ID and try again.",module,Magento_AdminGws
-"More permissions are needed to save this setting.","More permissions are needed to save this setting.",module,Magento_AdminGws
+"The ""%1"" store ID is incorrect. Verify the store ID and try again.","Veikalam ""%1"" ir nepareizs ID. Pārbaudiet lapas ID un mēģiniet vēlreiz.",module,Magento_AdminGws
+"More permissions are needed to save this setting.","Nepieciešamas lielākas piekļuves tiesības lai saglabātu šo iestatījumu.",module,Magento_AdminGws
 "Role Scopes","Funkciju Parametri",module,Magento_AdminGws
 Custom,Pielāgots,module,Magento_AdminGws
 "Read Details","Vairāk informācijas",module,Magento_AdminNotification
@@ -34,7 +34,7 @@ Notifications,Paziņojumi,module,Magento_AdminNotification
 "Total of %1 record(s) have been removed.","Pavisam nodzēstas %1 ziņa(s).",module,Magento_AdminNotification
 "We couldn't remove the messages because of an error.","Nevar nodzēst ziņu kļūdas dēļ.",module,Magento_AdminNotification
 "The message has been removed.","Ziņa ir nodzēsta.",module,Magento_AdminNotification
-"You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.","You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.",module,Magento_AdminNotification
+"You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.","Jūs apskatījāt un atrisinājātvisus sistēmas paziņojumus. Atjauninjiet lapu lai nodzēstu paziņojumu.",module,Magento_AdminNotification
 "1 Hour","1 stunda",module,Magento_AdminNotification
 "2 Hours","2 stundas",module,Magento_AdminNotification
 "6 Hours","6 stundas",module,Magento_AdminNotification
@@ -46,7 +46,7 @@ minor,mazsvarīgs,module,Magento_AdminNotification
 notice,paziņojums,module,Magento_AdminNotification
 "Wrong message type","Nepareizs ziņas veids",module,Magento_AdminNotification
 "Wrong notification ID specified.","Norādīts nepareizs paziņojuma ID.",module,Magento_AdminNotification
-"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.",module,Magento_AdminNotification
+"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} nav ieteicams lietot darbojošā veikalā lai deklarētu Base Unsecure URL / Base Secure URL. Iesakām to mainīt Magento <a href=""%1"">konfigurācijā</a>.",module,Magento_AdminNotification
 "One or more of the Cache Types are invalidated: %1.","Vains vai vairāki keša veidi nav validēti: %1.",module,Magento_AdminNotification
 "Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","Ejiet uz <a href=""%1"">Keša pārvaldība</a> un atjaunojiet keša veidus.",module,Magento_AdminNotification
 "We were unable to synchronize one or more media files. Please refer to the log file for details.","Nav iespējams sinhronizēt vienu vai vairākus mēdiju failus. Varāk informācijas log failā.",module,Magento_AdminNotification
@@ -104,19 +104,19 @@ Configure,Konfigurēt,module,Magento_AdvancedCheckout
 "You must buy at least %1 of these per purchase.","Jums jāpērk vismaz %1 šādus produktus vienā pirkumā.",module,Magento_AdvancedCheckout
 "Specify the product's options.","Norādiet produkta opcijas.",module,Magento_AdvancedCheckout
 "Alert me when this item is available.","Pabrīdināt kad šis produkts ir pieejams.",module,Magento_AdvancedCheckout
-"This customer couldn't be found. Verify the customer and try again.","This customer couldn't be found. Verify the customer and try again.",module,Magento_AdvancedCheckout
+"This customer couldn't be found. Verify the customer and try again.","Nevar atrast šādu klientu. Pārbaudiet klientu un mēģiniet vēlreiz.",module,Magento_AdvancedCheckout
 "Shopping cart management is disabled for this customer.","Groza pārvalde šim klientam ir izslēgta.",module,Magento_AdvancedCheckout
-"This store couldn't be found. Verify the store and try again.","This store couldn't be found. Verify the store and try again.",module,Magento_AdvancedCheckout
+"This store couldn't be found. Verify the store and try again.","Nevar atrast šādu veikalu. Pārbaudiet un mēģiniet vēlreiz.",module,Magento_AdvancedCheckout
 Customers,Klienti,module,Magento_AdvancedCheckout
 "Shopping Cart",Grozs,module,Magento_AdvancedCheckout
-"An error occurred. For details, see the error log.","An error occurred. For details, see the error log.",module,Magento_AdvancedCheckout
+"An error occurred. For details, see the error log.","Kļūda. Vairāk informācijas log failos.",module,Magento_AdvancedCheckout
 "You do not have access to this.","Jums nav piekļuves tiesību.",module,Magento_AdvancedCheckout
-"Orders can only be completed in an active store. Verify the store and try again.","Orders can only be completed in an active store. Verify the store and try again.",module,Magento_AdvancedCheckout
-"The ordered item needs to be loaded. Load the item and try again.","The ordered item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
-"The quote item ID needs to be received. Set the ID and try again.","The quote item ID needs to be received. Set the ID and try again.",module,Magento_AdvancedCheckout
-"The quote item needs to be loaded. Load the item and try again.","The quote item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
-"The wish list item ID needs to be received. Set the ID and try again.","The wish list item ID needs to be received. Set the ID and try again.",module,Magento_AdvancedCheckout
-"The wish list item needs to be loaded. Load the item and try again.","The wish list item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
+"Orders can only be completed in an active store. Verify the store and try again.","Pasutījumus var veikt tikai aktīvā veikalā. Pārbaudiet un mēģiniet vēlreiz.",module,Magento_AdvancedCheckout
+"The ordered item needs to be loaded. Load the item and try again.","Pasūtītā prece ir jāielādē. Ielādējiet to un mēģiniet vēlreiz.",module,Magento_AdvancedCheckout
+"The quote item ID needs to be received. Set the ID and try again.","Ir jāsaņem pieprasītā produkta ID. Ielādējiet to un mēģiniet vēlreiz.",module,Magento_AdvancedCheckout
+"The quote item needs to be loaded. Load the item and try again.","Pieprasītais produkts ir jāielādē. Ielādējiet to un mēģiniet vēlreiz.",module,Magento_AdvancedCheckout
+"The wish list item ID needs to be received. Set the ID and try again.","Ir jāsaņem vēlmju saraksta produkta ID. Ielādējiet to un mēģiniet vēlreiz.",module,Magento_AdvancedCheckout
+"The wish list item needs to be loaded. Load the item and try again.","Produkts no vēlmju saraksta ir jāielādē. Ielādējiet to un mēģiniet vēlreiz.",module,Magento_AdvancedCheckout
 "An error has occurred. See error log for details.","Kļūda. Vairāk informācijas kļūdu log failā.",module,Magento_AdvancedCheckout
 "You cannot configure a product.","Jūs nevarat konfigurēt produktu.",module,Magento_AdvancedCheckout
 "You removed the items.","Jūs nodzēsāt produktus.",module,Magento_AdvancedCheckout
@@ -124,7 +124,7 @@ Customers,Klienti,module,Magento_AdvancedCheckout
 "You added %1 to your shopping cart.","Jūs pievienojāt grozam %1.",module,Magento_AdvancedCheckout
 "You cannot add a product.","Jūs nevarat pievienot produktu.",module,Magento_AdvancedCheckout
 "Order by SKU","Pasūtīt pēc artikula",module,Magento_AdvancedCheckout
-"The SKU was not found in the catalog.","The SKU was not found in the catalog.",module,Magento_AdvancedCheckout
+"The SKU was not found in the catalog.","SKU katalogā nav atrasts.",module,Magento_AdvancedCheckout
 "Availability: Out of stock.","Pieejamība: Nav noliktavā.",module,Magento_AdvancedCheckout
 "We don't have as many of these as you want.","Veikalā nav pieejams tāds daudzums.",module,Magento_AdvancedCheckout
 "You can't add this many to your cart.","Jūs nevarat pievienot grozam tik daudz produktus.",module,Magento_AdvancedCheckout
@@ -137,7 +137,7 @@ Customers,Klienti,module,Magento_AdvancedCheckout
 "The file is empty.","Fails ir tukšs.",module,Magento_AdvancedCheckout
 "You have not entered a product SKU. Please <a href=""%1"">click here</a> to add product(s) by SKU.","Jūs neesat ievadījis produkta artikulu. Nospiediet <a href=""%1"">šeit</a> lai pievienotu prudukta(u) artikulu.",module,Magento_AdvancedCheckout
 "You have not entered a product SKU.","Jūs neesat ievadījis produkta artikulu.",module,Magento_AdvancedCheckout
-"We can't add a product to cart by id ""%1"".","We can't add a product to cart by id ""%1"".",module,Magento_AdvancedCheckout
+"We can't add a product to cart by id ""%1"".","Nevar pievienot grozam produktu ar id ""%1"".",module,Magento_AdvancedCheckout
 "Something went wrong while reordering this product.","Notikusi kļūda atkārtoti pasūtot šo produktu.",module,Magento_AdvancedCheckout
 "We can't find this wish list.","Nevaram atrast šo vēlmju sarakstu.",module,Magento_AdvancedCheckout
 "You added %1 product to your shopping cart.","Jūs pievienojāt %1 produktu grozam.",module,Magento_AdvancedCheckout
@@ -147,7 +147,7 @@ Customers,Klienti,module,Magento_AdvancedCheckout
 "Yes, for Specified Customer Groups","Jā, norādītajām klientu grupām",module,Magento_AdvancedCheckout
 "Yes, for Everyone","Jā, visiem",module,Magento_AdvancedCheckout
 No,Nē,module,Magento_AdvancedCheckout
-"The file is corrupt and can't be used.","The file is corrupt and can't be used.",module,Magento_AdvancedCheckout
+"The file is corrupt and can't be used.","Fails ir bojāts un nelietojams.",module,Magento_AdvancedCheckout
 "Please upload the file in .csv format.","Augšupielādējiet failu .csv formātā.",module,Magento_AdvancedCheckout
 "%1 item(s) need your attention.","%1 produktam(iem) jāpievērš uzmanība.",module,Magento_AdvancedCheckout
 "Apply Coupon Code","Pielietot kupona kodu",module,Magento_AdvancedCheckout
@@ -208,7 +208,7 @@ File,Fails,module,Magento_AdvancedCheckout
 "Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Produkta veida modelim jābūt piemēram
 \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_AdvancedPricingImportExport
 "There are no product types available for export","Eksportam nav pieejami produkta veidi",module,Magento_AdvancedPricingImportExport
-"%1 class doesn't implement \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface","%1 class doesn't implement \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface",module,Magento_AdvancedRule
+"%1 class doesn't implement \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface","%1 klase neiekļauj \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface",module,Magento_AdvancedRule
 "Sales Rule","Pārdošanas noteikums",module,Magento_AdvancedSalesRule
 "Index sales rule","Indeksēt pārdošanas noteikumus",module,Magento_AdvancedSalesRule
 "Related Search Terms","Saistīti meklēšanas nosacījumi",module,Magento_AdvancedSearch
@@ -224,8 +224,8 @@ button_label,button_label,module,Magento_AdvancedSearch
 "Enable Search Suggestions","Ieslēgt meklēšanas ieteikumus",module,Magento_AdvancedSearch
 "Search Suggestions Count","Meklēšans ieteikumu skaits",module,Magento_AdvancedSearch
 "Show Results Count for Each Suggestion","Rādīt rezultātu skaitu katram ieteikumam",module,Magento_AdvancedSearch
-"Related search terms","Related search terms",module,Magento_AdvancedSearch
-"Did you mean","Did you mean",module,Magento_AdvancedSearch
+"Related search terms","Saistīti meklēšanas nosacījumi",module,Magento_AdvancedSearch
+"Did you mean","Vai meklējāt",module,Magento_AdvancedSearch
 ID,ID,module,Magento_AdvancedSearch
 "Search Query","Meklēšanas pieprasījums",module,Magento_AdvancedSearch
 Store,Veikals,module,Magento_AdvancedSearch
@@ -240,35 +240,35 @@ Edit,Labot,module,Magento_AdvancedSearch
 "RPC call failed, connection timed out after %time_out.","RPC pieprasījums nav izdevies, pieslēguma taimauts pēc %time_out.",module,Magento_Amqp
 "Message has been rejected: %1","Ziņa tik atteikta: %1",module,Magento_Amqp
 "Error while checking if topic is synchronous","Kļūda pārbaudot vai temats ir sinhronizēts",module,Magento_Amqp
-"Subscription status","Subscription status",module,Magento_Analytics
-"Sorry, there has been an error processing your request. Please try again later.","Sorry, there has been an error processing your request. Please try again later.",module,Magento_Analytics
+"Subscription status","Pierakstīšanās statuss",module,Magento_Analytics
+"Sorry, there has been an error processing your request. Please try again later.","Atvainojiet, radās kļūda, apstrādājot jūsu pieprasījumu. Lūdzu, vēlāk mēģiniet vēlreiz.",module,Magento_Analytics
 "The time value is using an unsupported format. Enter a supported format and try again.","The time value is using an unsupported format. Enter a supported format and try again.",module,Magento_Analytics
-"Cron settings can't be saved","Cron settings can't be saved",module,Magento_Analytics
-"There was an error save new configuration value.","There was an error save new configuration value.",module,Magento_Analytics
-"Please select an industry.","Please select an industry.",module,Magento_Analytics
-"--Please Select--","--Please Select--",module,Magento_Analytics
-"Command was not found.","Command was not found.",module,Magento_Analytics
-"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","The data is invalid. Enter the data as a string or data that can be converted into a string and try again.",module,Magento_Analytics
-"The data is invalid. Enter the data as a string and try again.","The data is invalid. Enter the data as a string and try again.",module,Magento_Analytics
-"The data is invalid. Use a valid cipher method and try again.","The data is invalid. Use a valid cipher method and try again.",module,Magento_Analytics
-"Enter the encryption key and try again.","Enter the encryption key and try again.",module,Magento_Analytics
-"The ""%1"" source doesn't exist.","The ""%1"" source doesn't exist.",module,Magento_Analytics
-"These arguments can't be empty ""%1""","These arguments can't be empty ""%1""",module,Magento_Analytics
-"Cannot find predefined integration user!","Cannot find predefined integration user!",module,Magento_Analytics
-"File is not ready yet.","File is not ready yet.",module,Magento_Analytics
-"Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.",module,Magento_Analytics
-"Failed to synchronize data to the Magento Business Intelligence service.","Failed to synchronize data to the Magento Business Intelligence service.",module,Magento_Analytics
-"Retry Synchronization","Retry Synchronization",module,Magento_Analytics
+"Cron settings can't be saved","Cron iestatījumus nevar saglabāt",module,Magento_Analytics
+"There was an error save new configuration value.","Radās kļūda, saglabāt jaunu konfigurācijas vērtību.",module,Magento_Analytics
+"Please select an industry.","Izvēlieties industriju.",module,Magento_Analytics
+"--Please Select--","--Lūdzu izvēlieties--",module,Magento_Analytics
+"Command was not found.","Komanda nav atrasta.",module,Magento_Analytics
+"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","Dati ir nederīgi. Ievadiet datus kā saiti vai datus kurus var pārvērst par saikni un mēģiniet vēlreiz.",module,Magento_Analytics
+"The data is invalid. Enter the data as a string and try again.","Dati ir nederīgi. Ievadiet datus kā saiti un mēģiniet vēlreiz.",module,Magento_Analytics
+"The data is invalid. Use a valid cipher method and try again.","Dati ir nederīgi. Izmantojiet derīgu šifrēšanas metodi un mēģiniet vēlreiz.",module,Magento_Analytics
+"Enter the encryption key and try again.","Ievadiet šifrēšanas atslēgu un mēģiniet vēlreiz.",module,Magento_Analytics
+"The ""%1"" source doesn't exist.","Avots ""%1"" neeksistē.",module,Magento_Analytics
+"These arguments can't be empty ""%1""","Šie argumenti nevar būt tukši ""%1""",module,Magento_Analytics
+"Cannot find predefined integration user!","Nevar atrast definētu integrācijas lietotāju!",module,Magento_Analytics
+"File is not ready yet.","Fails vēl nav gatavs.",module,Magento_Analytics
+"Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","Pamata URL ir mainīta, un atskaites tiek atjauninātas. Papildu Atskaites būs pieejamas tiklīdz šī izmaiņas būs apstrādātas. Lūdzu, vēlāk mēģiniet vēlreiz.",module,Magento_Analytics
+"Failed to synchronize data to the Magento Business Intelligence service.","Neizdevās sinhronizēt datus ar Magento Business Intelligence pakalpojumu.",module,Magento_Analytics
+"Retry Synchronization","Vēlreiz mēģināt sinhronizēšanu",module,Magento_Analytics
 TestMessage,TestMessage,module,Magento_Analytics
-"Apps and Games","Apps and Games",module,Magento_Analytics
-"Athletic/Sporting Goods","Athletic/Sporting Goods",module,Magento_Analytics
-"Art and Design","Art and Design",module,Magento_Analytics
-"Advanced Reporting","Advanced Reporting",module,Magento_Analytics
+"Apps and Games","Aplikācijas un spēles",module,Magento_Analytics
+"Athletic/Sporting Goods","Sporta preces",module,Magento_Analytics
+"Art and Design","Māksla un dizains",module,Magento_Analytics
+"Advanced Reporting","Paplašinātas atskaites",module,Magento_Analytics
 "Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.","Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.",module,Magento_Analytics
-"Go to Advanced Reporting","Go to Advanced Reporting",module,Magento_Analytics
-Analytics,Analytics,module,Magento_Analytics
+"Go to Advanced Reporting","Iet uz Paplašinātajām atskaitēm",module,Magento_Analytics
+Analytics,Analītika,module,Magento_Analytics
 API,API,module,Magento_Analytics
-Configuration,Configuration,module,Magento_Analytics
+Configuration,Konfigurācija,module,Magento_Analytics
 "Business Intelligence","Business Intelligence",module,Magento_Analytics
 "BI Essentials","BI Essentials",module,Magento_Analytics
 "This service provides a dynamic suite of reports with rich insights about your business.
@@ -278,9 +278,9 @@ Configuration,Configuration,module,Magento_Analytics
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
                 ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
                 terms and conditions</a>.",module,Magento_Analytics
-"Advanced Reporting Service","Advanced Reporting Service",module,Magento_Analytics
-"Time of day to send data","Time of day to send data",module,Magento_Analytics
-Industry,Industry,module,Magento_Analytics
+"Advanced Reporting Service","Paplašinātu Atskaišu serviss",module,Magento_Analytics
+"Time of day to send data","Laiks kurā sūtīt datus",module,Magento_Analytics
+Industry,Industrija,module,Magento_Analytics
 "In order to personalize your Advanced Reporting experience, please select your industry.","In order to personalize your Advanced Reporting experience, please select your industry.",module,Magento_Analytics
 "<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Get more insights from Magento Business Intelligence</strong>",module,Magento_Analytics
 "Magento Business Intelligence provides you with a simple and clear path to
@@ -288,24 +288,24 @@ Industry,Industry,module,Magento_Analytics
                     href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Magento Business Intelligence provides you with a simple and clear path to
                     becoming more data driven.</br> Learn more about <a target=""_blank""
                     href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.",module,Magento_Analytics
-"Auto Parts","Auto Parts",module,Magento_Analytics
+"Auto Parts","Auto daļas",module,Magento_Analytics
 "Baby/Children’s Apparel, Gear and Toys","Baby/Children’s Apparel, Gear and Toys",module,Magento_Analytics
-"Beauty and Cosmetics","Beauty and Cosmetics",module,Magento_Analytics
-"Books, Music and Magazines","Books, Music and Magazines",module,Magento_Analytics
-"Crafts and Stationery","Crafts and Stationery",module,Magento_Analytics
-"Consumer Electronics","Consumer Electronics",module,Magento_Analytics
-"Deal Site","Deal Site",module,Magento_Analytics
-"Fashion Apparel and Accessories","Fashion Apparel and Accessories",module,Magento_Analytics
-"Food, Beverage and Grocery","Food, Beverage and Grocery",module,Magento_Analytics
-"Home Goods and Furniture","Home Goods and Furniture",module,Magento_Analytics
-"Home Improvement","Home Improvement",module,Magento_Analytics
-"Jewelry and Watches","Jewelry and Watches",module,Magento_Analytics
-"Mass Merchant","Mass Merchant",module,Magento_Analytics
-"Office Supplies","Office Supplies",module,Magento_Analytics
-"Outdoor and Camping Gear","Outdoor and Camping Gear",module,Magento_Analytics
-"Pet Goods","Pet Goods",module,Magento_Analytics
-"Pharma and Medical Devices","Pharma and Medical Devices",module,Magento_Analytics
-"Technology B2B","Technology B2B",module,Magento_Analytics
+"Beauty and Cosmetics","Skaistums un kosmētika",module,Magento_Analytics
+"Books, Music and Magazines","Grāmatas, mūzika un žurnāli",module,Magento_Analytics
+"Crafts and Stationery","Amatniecība un kancelejas preces",module,Magento_Analytics
+"Consumer Electronics","Sadzīves elektronika",module,Magento_Analytics
+"Deal Site","Darījumu vieta",module,Magento_Analytics
+"Fashion Apparel and Accessories","Modes apģērbs un aksesuāri",module,Magento_Analytics
+"Food, Beverage and Grocery","Pārtika, dzērieni un pārtikas preces",module,Magento_Analytics
+"Home Goods and Furniture","Mājai un Mēbeles",module,Magento_Analytics
+"Home Improvement","Mājas uzlabošana",module,Magento_Analytics
+"Jewelry and Watches","Rotaslietas un pulksteņi",module,Magento_Analytics
+"Mass Merchant",Vairumtirdzniecība,module,Magento_Analytics
+"Office Supplies","Kancelejas preces",module,Magento_Analytics
+"Outdoor and Camping Gear","Āra un tūrisma piederumi",module,Magento_Analytics
+"Pet Goods","Dzīvnieku preces",module,Magento_Analytics
+"Pharma and Medical Devices","Medicīnas preces",module,Magento_Analytics
+"Technology B2B","Tehnoloģijas B2B",module,Magento_Analytics
 Other,Other,module,Magento_Analytics
 Back,Back,module,Magento_AsynchronousOperations
 Done,Done,module,Magento_AsynchronousOperations
@@ -420,15 +420,15 @@ Debug,Atkļūdot,module,Magento_Authorizenet
 "Minimum Order Total","Minimālā pasūtījuma summa",module,Magento_Authorizenet
 "Maximum Order Total","Maksimālā pasūtījuma summa",module,Magento_Authorizenet
 "Sort Order","Kārtošanas secība",module,Magento_Authorizenet
-Close,Close,module,Magento_B2b
-options,options,module,Magento_B2b
-"Select all","Select all",module,Magento_B2b
-"Deselect all","Deselect all",module,Magento_B2b
-Cancel,Cancel,module,Magento_B2b
-Done,Done,module,Magento_B2b
-"Please Select","Please Select",module,Magento_B2b
-"%s of %s selected","%s of %s selected",module,Magento_B2b
-"B2B Features","B2B Features",module,Magento_B2b
+Close,Aizvērt,module,Magento_B2b
+options,opcijas,module,Magento_B2b
+"Select all","Atlasīt visu",module,Magento_B2b
+"Deselect all","Atcelt visu atlasi",module,Magento_B2b
+Cancel,Atcelt,module,Magento_B2b
+Done,Gatavs,module,Magento_B2b
+"Please Select","Lūdzu, izvēlieties",module,Magento_B2b
+"%s of %s selected","Atlasīti %s no %s",module,Magento_B2b
+"B2B Features","B2B funkcijas",module,Magento_B2b
 "Invalid Form Key. Please refresh the page.","Nepareiza Formas atslēga. Atjaunojiet lapu.",module,Magento_Backend
 "You entered an invalid Secret Key. Please refresh the page.","Jūs ievadījāt nepareizu Slepeno atslēgu. Atjaunojiet lapu.",module,Magento_Backend
 "Invalid security or form key. Please refresh the page.","Invalid security or form key. Please refresh the page.",module,Magento_Backend
