@@ -242,7 +242,7 @@ Edit,Labot,module,Magento_AdvancedSearch
 "Error while checking if topic is synchronous","Kļūda pārbaudot vai temats ir sinhronizēts",module,Magento_Amqp
 "Subscription status","Pierakstīšanās statuss",module,Magento_Analytics
 "Sorry, there has been an error processing your request. Please try again later.","Atvainojiet, radās kļūda, apstrādājot jūsu pieprasījumu. Lūdzu, vēlāk mēģiniet vēlreiz.",module,Magento_Analytics
-"The time value is using an unsupported format. Enter a supported format and try again.","The time value is using an unsupported format. Enter a supported format and try again.",module,Magento_Analytics
+"The time value is using an unsupported format. Enter a supported format and try again.","Laika vērtības formāts nav atbalstīts. Ievadiet formātu kurš tiek atbalstīts un mēģiniet vēlreiz.",module,Magento_Analytics
 "Cron settings can't be saved","Cron iestatījumus nevar saglabāt",module,Magento_Analytics
 "There was an error save new configuration value.","Radās kļūda, saglabāt jaunu konfigurācijas vērtību.",module,Magento_Analytics
 "Please select an industry.","Izvēlieties industriju.",module,Magento_Analytics
@@ -264,7 +264,7 @@ TestMessage,TestMessage,module,Magento_Analytics
 "Athletic/Sporting Goods","Sporta preces",module,Magento_Analytics
 "Art and Design","Māksla un dizains",module,Magento_Analytics
 "Advanced Reporting","Paplašinātas atskaites",module,Magento_Analytics
-"Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.","Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.",module,Magento_Analytics
+"Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.","Iegūstiet jaunu informāciju un pārvaldiet biznesa izaugsmi lietojot dinamiskas produktu, pasūtījumu un klientu atskaites par jūsu klientu datiem.",module,Magento_Analytics
 "Go to Advanced Reporting","Iet uz Paplašinātajām atskaitēm",module,Magento_Analytics
 Analytics,Analītika,module,Magento_Analytics
 API,API,module,Magento_Analytics
@@ -281,15 +281,15 @@ Configuration,Konfigurācija,module,Magento_Analytics
 "Advanced Reporting Service","Paplašinātu Atskaišu serviss",module,Magento_Analytics
 "Time of day to send data","Laiks kurā sūtīt datus",module,Magento_Analytics
 Industry,Industrija,module,Magento_Analytics
-"In order to personalize your Advanced Reporting experience, please select your industry.","In order to personalize your Advanced Reporting experience, please select your industry.",module,Magento_Analytics
-"<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Get more insights from Magento Business Intelligence</strong>",module,Magento_Analytics
+"In order to personalize your Advanced Reporting experience, please select your industry.","Lai personalizētu Paplašinātās atskaites, izvēlaties atbilstošu industriju.",module,Magento_Analytics
+"<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Vairāk informācijas no Magento Business Intelligence</strong>",module,Magento_Analytics
 "Magento Business Intelligence provides you with a simple and clear path to
                     becoming more data driven.</br> Learn more about <a target=""_blank""
                     href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Magento Business Intelligence provides you with a simple and clear path to
                     becoming more data driven.</br> Learn more about <a target=""_blank""
                     href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.",module,Magento_Analytics
 "Auto Parts","Auto daļas",module,Magento_Analytics
-"Baby/Children’s Apparel, Gear and Toys","Baby/Children’s Apparel, Gear and Toys",module,Magento_Analytics
+"Baby/Children’s Apparel, Gear and Toys","Bērnu apģērbs, rotaļlietas",module,Magento_Analytics
 "Beauty and Cosmetics","Skaistums un kosmētika",module,Magento_Analytics
 "Books, Music and Magazines","Grāmatas, mūzika un žurnāli",module,Magento_Analytics
 "Crafts and Stationery","Amatniecība un kancelejas preces",module,Magento_Analytics
@@ -307,55 +307,55 @@ Industry,Industrija,module,Magento_Analytics
 "Pharma and Medical Devices","Medicīnas preces",module,Magento_Analytics
 "Technology B2B","Tehnoloģijas B2B",module,Magento_Analytics
 Other,Other,module,Magento_Analytics
-Back,Back,module,Magento_AsynchronousOperations
-Done,Done,module,Magento_AsynchronousOperations
-Retry,Retry,module,Magento_AsynchronousOperations
-"'Action Details - #' .","'Action Details - #' .",module,Magento_AsynchronousOperations
-"%1 item(s) have been scheduled for update.""","%1 item(s) have been scheduled for update.""",module,Magento_AsynchronousOperations
-"Bulk Actions Log","Bulk Actions Log",module,Magento_AsynchronousOperations
-"Bulk uuid %bulkUuid not exist","Bulk uuid %bulkUuid not exist",module,Magento_AsynchronousOperations
-"Topic %1","Topic %1",module,Magento_AsynchronousOperations
-"Something went wrong while processing the request.","Something went wrong while processing the request.",module,Magento_AsynchronousOperations
-"Error processing %key element of input data","Error processing %key element of input data",module,Magento_AsynchronousOperations
-"Sorry, something went wrong during product prices update. Please see log for details.","Sorry, something went wrong during product prices update. Please see log for details.",module,Magento_AsynchronousOperations
-"%1 item(s) are currently being updated.","%1 item(s) are currently being updated.",module,Magento_AsynchronousOperations
-"Task ""%1"":","Task ""%1"":",module,Magento_AsynchronousOperations
-"%1 item(s) have been scheduled for update.","%1 item(s) have been scheduled for update.",module,Magento_AsynchronousOperations
-"%1 item(s) have been successfully updated.","%1 item(s) have been successfully updated.",module,Magento_AsynchronousOperations
-"%1 item(s) failed to update","%1 item(s) failed to update",module,Magento_AsynchronousOperations
-Details,Details,module,Magento_AsynchronousOperations
-"View Details","View Details",module,Magento_AsynchronousOperations
-Dismiss,Dismiss,module,Magento_AsynchronousOperations
-"Pending, in queue...","Pending, in queue...",module,Magento_AsynchronousOperations
-"%1 items selected for mass update","%1 items selected for mass update",module,Magento_AsynchronousOperations
-", %1 successfully updated",", %1 successfully updated",module,Magento_AsynchronousOperations
-", %1 failed to update",", %1 failed to update",module,Magento_AsynchronousOperations
-"Something went wrong.","Something went wrong.",module,Magento_AsynchronousOperations
-"Action Log","Action Log",module,Magento_AsynchronousOperations
-Report,Report,module,Magento_AsynchronousOperations
-"Bulk Actions","Bulk Actions",module,Magento_AsynchronousOperations
-"Action Logs","Action Logs",module,Magento_AsynchronousOperations
-"Days Saved in Log","Days Saved in Log",module,Magento_AsynchronousOperations
-"Description of Operation","Description of Operation",module,Magento_AsynchronousOperations
-Summary,Summary,module,Magento_AsynchronousOperations
-"Start Time","Start Time",module,Magento_AsynchronousOperations
-"Items to Retry","Items to Retry",module,Magento_AsynchronousOperations
-"To retry, select the items and click “Retry”.","To retry, select the items and click “Retry”.",module,Magento_AsynchronousOperations
-"Items That Can’t Be Updated.","Items That Can’t Be Updated.",module,Magento_AsynchronousOperations
+Back,Atpakaļ,module,Magento_AsynchronousOperations
+Done,Gatavs,module,Magento_AsynchronousOperations
+Retry,"Mēģināt vēlreiz",module,Magento_AsynchronousOperations
+"'Action Details - #' .","'Darbības informācija - #' .",module,Magento_AsynchronousOperations
+"%1 item(s) have been scheduled for update.""","%1 produkts(i) apstiprināti atjaunināšanai.""",module,Magento_AsynchronousOperations
+"Bulk Actions Log","Vairāku darbību žurnāls",module,Magento_AsynchronousOperations
+"Bulk uuid %bulkUuid not exist","Vairāki uuid %bulkUuid neeksistē",module,Magento_AsynchronousOperations
+"Topic %1","Temats %1",module,Magento_AsynchronousOperations
+"Something went wrong while processing the request.","Kļūda apstrādājot pieprasījumu.",module,Magento_AsynchronousOperations
+"Error processing %key element of input data","Kļūda apstrādājot ievades datu %key elementu",module,Magento_AsynchronousOperations
+"Sorry, something went wrong during product prices update. Please see log for details.","Atvai9nojamies, kļūda atjaunojot preču cenas. Skatiet žurnālu lai iegūtu vairāk informācijas.",module,Magento_AsynchronousOperations
+"%1 item(s) are currently being updated.","Pašlaik tiek atjaunināta(s) %1 prece (s).",module,Magento_AsynchronousOperations
+"Task ""%1"":","Uzdevums ""%1"":",module,Magento_AsynchronousOperations
+"%1 item(s) have been scheduled for update.","%1 produkts(i) apstiprināti atjaunināšanai.",module,Magento_AsynchronousOperations
+"%1 item(s) have been successfully updated.","%1 produkts(i) neizdevās atjaunināt.",module,Magento_AsynchronousOperations
+"%1 item(s) failed to update","%1 produkts(i) netika atjaunināts(i)",module,Magento_AsynchronousOperations
+Details,"Papildu informācija",module,Magento_AsynchronousOperations
+"View Details","Skatīt detaļas",module,Magento_AsynchronousOperations
+Dismiss,Atcelt,module,Magento_AsynchronousOperations
+"Pending, in queue...","Gaida rindā...",module,Magento_AsynchronousOperations
+"%1 items selected for mass update","%1 produkti atlasīti masveida atjaunināšana",module,Magento_AsynchronousOperations
+", %1 successfully updated",", %1 veiksmīgi atjaunināts",module,Magento_AsynchronousOperations
+", %1 failed to update",", %1 neizdevās atjaunināt",module,Magento_AsynchronousOperations
+"Something went wrong.","Kaut kas nogāja greizi.",module,Magento_AsynchronousOperations
+"Action Log","Darbību žurnāls",module,Magento_AsynchronousOperations
+Report,Pārskats,module,Magento_AsynchronousOperations
+"Bulk Actions","Vairākas darbības",module,Magento_AsynchronousOperations
+"Action Logs","Darbību žurnāli",module,Magento_AsynchronousOperations
+"Days Saved in Log","Žurnālā saglabātās dienas",module,Magento_AsynchronousOperations
+"Description of Operation","Darbības apraksts",module,Magento_AsynchronousOperations
+Summary,Kopsavilkums,module,Magento_AsynchronousOperations
+"Start Time","Sākuma laiks",module,Magento_AsynchronousOperations
+"Items to Retry","Produktus kurus mēģināt vēlreiz",module,Magento_AsynchronousOperations
+"To retry, select the items and click “Retry”.","Lai mēģinātu vēlreiz, izvēlieties produktus un nospiediet ""Mēģināt vēlreiz"".",module,Magento_AsynchronousOperations
+"Items That Can’t Be Updated.","Produkti kurus nevar atjaunot.",module,Magento_AsynchronousOperations
 ID,ID,module,Magento_AsynchronousOperations
-Status,Status,module,Magento_AsynchronousOperations
-"Meta Information","Meta Information",module,Magento_AsynchronousOperations
-Error,Error,module,Magento_AsynchronousOperations
-"Dismiss All Completed Tasks","Dismiss All Completed Tasks",module,Magento_AsynchronousOperations
-"Action Details - #","Action Details - #",module,Magento_AsynchronousOperations
-"Number of Records Affected","Number of Records Affected",module,Magento_AsynchronousOperations
-"The role wasn't found for the user. Verify the role and try again.","The role wasn't found for the user. Verify the role and try again.",module,Magento_Authorization
+Status,Statuss,module,Magento_AsynchronousOperations
+"Meta Information","Meta informācija",module,Magento_AsynchronousOperations
+Error,Kļūda,module,Magento_AsynchronousOperations
+"Dismiss All Completed Tasks","Atcelt Visus Pabeigtos Uzdevumus",module,Magento_AsynchronousOperations
+"Action Details - #","Darbības informācija - #",module,Magento_AsynchronousOperations
+"Number of Records Affected","Apstrādāto ierakstu skaits",module,Magento_AsynchronousOperations
+"The role wasn't found for the user. Verify the role and try again.","Lietotājam nav piešķirtas funkcijas. Pārbaudiet lietotāja lomu un mēģiniet vēlreiz.",module,Magento_Authorization
 "Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","Notikusi kļūda kompilējot atļauto resursu sarakstu. Vairāk informācijas noraidījumu log failā.",module,Magento_Authorization
 "You created the order.","Jūs izveidojāt pasūtījumu.",module,Magento_Authorizenet
 "Order saving error: %1","Kļūda saglabājot pasūtījumu: %1",module,Magento_Authorizenet
 "Please choose a payment method.","Izvēlieties maksāšanas veidu.",module,Magento_Authorizenet
 "We can't process your order right now. Please try again later.","Nevaram pašlaik apstrādāt Jūsu pasūtījumu. Mēģiniet vēlāk.",module,Magento_Authorizenet
-"A server error stopped your order from being placed. Please try to place your order again.","A server error stopped your order from being placed. Please try to place your order again.",module,Magento_Authorizenet
+"A server error stopped your order from being placed. Please try to place your order again.","Serveris apstādināja Jūsu pasūtījuma apstrādi. Mēģiniet vēlreiz izveidot pasūtījumu.",module,Magento_Authorizenet
 "Credit Card: xxxx-%1","Kredītkarte: xxxx-%1",module,Magento_Authorizenet
 "amount %1","skaits %1",module,Magento_Authorizenet
 failed.,neizdevās.,module,Magento_Authorizenet
@@ -383,10 +383,10 @@ void,anulēt,module,Magento_Authorizenet
 "Transaction %1 has been voided/declined. Transaction status is ""%2"". Amount %3.","Transakcija %1 tika anulēta/noraidīta. Transakcijas statuss ir ""%2"". Summa %3.",module,Magento_Authorizenet
 "Authorize Only","Tikai autorizācija",module,Magento_Authorizenet
 "Authorize and Capture","Autorizēt un saņemt",module,Magento_Authorizenet
-"The transaction details are unavailable. Please try again later.","The transaction details are unavailable. Please try again later.",module,Magento_Authorizenet
-"Electronic payments save the trees.","Electronic payments save the trees.",module,Magento_Authorizenet
+"The transaction details are unavailable. Please try again later.","Transakcijas informācija nav pieejama. Mēģiniet vēlāk vēlreiz.",module,Magento_Authorizenet
+"Electronic payments save the trees.","Elektroniskiem maksājumi pasargā dabu.",module,Magento_Authorizenet
 "Credit Card Type","Kredītkartes veids",module,Magento_Authorizenet
-"Please Select","Please Select",module,Magento_Authorizenet
+"Please Select","Lūdzu, izvēlieties",module,Magento_Authorizenet
 "Credit Card Number","Kredītkartes numurs",module,Magento_Authorizenet
 "Expiration Date","Derīguma termiņš",module,Magento_Authorizenet
 "Card Verification Number","Kredītkartes pārbaudes kods",module,Magento_Authorizenet
@@ -397,7 +397,7 @@ void,anulēt,module,Magento_Authorizenet
 "CAVV Response","CAVV atbilde",module,Magento_Authorizenet
 "Fraud Filters","Krāpšanas filtri",module,Magento_Authorizenet
 "Place Order","Veikt pasūtījumu",module,Magento_Authorizenet
-"Sorry, but something went wrong. Please contact the seller.","Sorry, but something went wrong. Please contact the seller.",module,Magento_Authorizenet
+"Sorry, but something went wrong. Please contact the seller.","Atvainojiet, notikusi kļūda. Sazinieties ar pārdevēju.",module,Magento_Authorizenet
 "Authorize.net Direct Post","Authorize.net Direct Post",module,Magento_Authorizenet
 Enabled,Ieslēgts,module,Magento_Authorizenet
 "Payment Action","Maksājuma darbība",module,Magento_Authorizenet
@@ -1114,7 +1114,7 @@ ending,ending,module,Magento_Braintree
 expires,expires,module,Magento_Braintree
 PayPal,PayPal,module,Magento_Braintree
 "The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.",module,Magento_Braintree
-"Transaction was failed.","Transaction was failed.",module,Magento_Braintree
+"Transaction was failed.","Transakcija nav izdevusies.",module,Magento_Braintree
 "Credit Card Type","Kredītkartes veids",module,Magento_Braintree
 "Credit Card Number","Kredītkartes numurs",module,Magento_Braintree
 "Please, enter valid Credit Card Number","Please, enter valid Credit Card Number",module,Magento_Braintree
@@ -2712,7 +2712,7 @@ List,Saraksts,module,Magento_CatalogSearch
 Relevance,Atbilstība,module,Magento_CatalogSearch
 "Search results for: '%1'","Meklēšanas rezultāti: '%1'",module,Magento_CatalogSearch
 "Minimum Search query length is %1","Minimum Search query length is %1",module,Magento_CatalogSearch
-"Search term is empty","Search term is empty",module,Magento_CatalogSearch
+"Search term is empty","Meklēšana ir tukša",module,Magento_CatalogSearch
 "Enter a search term and try again.","Enter a search term and try again.",module,Magento_CatalogSearch
 "%1 and greater","%1 and greater",module,Magento_CatalogSearch
 "up to %1","up to %1",module,Magento_CatalogSearch
@@ -2741,7 +2741,7 @@ name,nosaukums,module,Magento_CatalogSearch
 "Popular Search Terms","Populārākie meklējumi",module,Magento_CatalogSearch
 "Minimal Query Length","Minimālais pieprasījuma garums",module,Magento_CatalogSearch
 "Maximum Query Length","Maksimālais pieprasījuma garums",module,Magento_CatalogSearch
-"Number of top search results to cache","Number of top search results to cache",module,Magento_CatalogSearch
+"Number of top search results to cache","Populārāko meklēšanas rezultātu kešošana",module,Magento_CatalogSearch
 "Number of popular search terms to be cached for faster response. Use “0” to cache all results after a term is searched for the second time.","Number of popular search terms to be cached for faster response. Use “0” to cache all results after a term is searched for the second time.",module,Magento_CatalogSearch
 "Autocomplete Limit","Autocomplete Limit",module,Magento_CatalogSearch
 "Enable EAV Indexer","Enable EAV Indexer",module,Magento_CatalogSearch
@@ -3172,7 +3172,7 @@ Pages,Lapas,module,Magento_Cms
 "We can't upload the file right now.","Mēs pašlaik nevaram augšuplādēt šo failu.",module,Magento_Cms
 "We can't delete root directory %1 right now.","Mēs nevaram izdzēst galveno katalogu %1 pašlaik.",module,Magento_Cms
 "Privacy and Cookie Policy","Privacy and Cookie Policy",module,Magento_Cms
-"Error message","Error message",module,Magento_Cms
+"Error message","Kļūdas paziņojums",module,Magento_Cms
 LocalizedException,LocalizedException,module,Magento_Cms
 RuntimeException,RuntimeException,module,Magento_Cms
 Exception,Exception,module,Magento_Cms
@@ -4055,7 +4055,7 @@ Select,Izvēlēties,module,Magento_ConfigurableProduct
 "Remove Product","Nodzēst produktu",module,Magento_ConfigurableProduct
 "Create Product Configurations","Create Product Configurations",module,Magento_ConfigurableProduct
 Cancel,Atcelt,module,Magento_ConfigurableProduct
-"As low as","As low as",module,Magento_ConfigurableProduct
+"As low as","Tik zema kā",module,Magento_ConfigurableProduct
 "Regular Price","Parastā cena",module,Magento_ConfigurableProduct
 "Buy %1 for %2 each and","Buy %1 for %2 each and",module,Magento_ConfigurableProduct
 save,save,module,Magento_ConfigurableProduct
@@ -4729,7 +4729,7 @@ Strong,Stipra,module,Magento_Customer
 "Show Prefix","Show Prefix",module,Magento_Customer
 "The title that goes before name (Mr., Mrs., etc.)","The title that goes before name (Mr., Mrs., etc.)",module,Magento_Customer
 "Prefix Dropdown Options","Prefix Dropdown Options",module,Magento_Customer
-"Semicolon (;) separated values.<br/>Leave empty for open text field.","Semicolon (;) separated values.<br/>Leave empty for open text field.",module,Magento_Customer
+"Semicolon (;) separated values.<br/>Leave empty for open text field.","Ar semikolu (;) atdalītas vērtības.<br/>Atstājiet tukšu priekš brīva teksta lauka.",module,Magento_Customer
 "Show Middle Name (initial)","Show Middle Name (initial)",module,Magento_Customer
 "Always optional.","Always optional.",module,Magento_Customer
 "Show Suffix","Show Suffix",module,Magento_Customer
@@ -6962,8 +6962,8 @@ Resources,Resources,module,Magento_Integration
 "Popup Blocker is enabled! Please add this site to your exception list.","Popup Blocker is enabled! Please add this site to your exception list.",module,Magento_Integration
 Allow,Allow,module,Magento_Integration
 Done,Gatavs,module,Magento_Integration
-"System Extensions","System Extensions",module,Magento_Integration
-"System Integrations","System Integrations",module,Magento_Integration
+"System Extensions","Sistēma spaplašinājumi",module,Magento_Integration
+"System Integrations","Sistēmas integrācijas",module,Magento_Integration
 Extensions,Extensions,module,Magento_Integration
 OAuth,OAuth,module,Magento_Integration
 "Access Token Expiration","Access Token Expiration",module,Magento_Integration
@@ -8400,7 +8400,7 @@ No,Nē,module,Magento_Payment
 "Failure #2","Failure #2",module,Magento_Payment
 "Expiration Date","Derīguma termiņš",module,Magento_Payment
 "Card Verification Number","Kredītkartes pārbaudes kods",module,Magento_Payment
-"Payment method","Payment method",module,Magento_Payment
+"Payment method","Apmaksas veids",module,Magento_Payment
 "is not available. You still can process offline actions.","is not available. You still can process offline actions.",module,Magento_Payment
 "Please Select","Please Select",module,Magento_Payment
 "We'll ask for your payment details before you place an order.","We'll ask for your payment details before you place an order.",module,Magento_Payment
@@ -9136,7 +9136,7 @@ Role,Role,module,Magento_ProductVideo
 "YouTube and Vimeo supported.","YouTube and Vimeo supported.",module,Magento_ProductVideo
 "Vimeo supported.<br />To add YouTube video, please <a href=""%1"">enter YouTube API Key</a> first.","Vimeo supported.<br />To add YouTube video, please <a href=""%1"">enter YouTube API Key</a> first.",module,Magento_ProductVideo
 "Protocol isn't allowed","Protocol isn't allowed",module,Magento_ProductVideo
-"Disallowed file type.","Disallowed file type.",module,Magento_ProductVideo
+"Disallowed file type.","Neatļauts faila tips.",module,Magento_ProductVideo
 "The preview image information is unavailable. Check your connection and try again.","The preview image information is unavailable. Check your connection and try again.",module,Magento_ProductVideo
 "Add Video","Add Video",module,Magento_ProductVideo
 "Browse to find or drag image here","Browse to find or drag image here",module,Magento_ProductVideo
@@ -9900,7 +9900,7 @@ Summary,Kopsavilkums,module,Magento_Review
 "Product Rating:","Produkta vērtējums:",module,Magento_Review
 "Product Review (submitted on %1):","Product Review (submitted on %1):",module,Magento_Review
 "Back to Product Reviews","Atpakaļ pie produkta atsauksmēm",module,Magento_Review
-"Please select one of each of the ratings above.","Please select one of each of the ratings above.",module,Magento_Review
+"Please select one of each of the ratings above.","Izvēlieties vienu no vērtējumiem.",module,Magento_Review
 "By Customers","By Customers",module,Magento_Review
 "By Products","By Products",module,Magento_Review
 Enabled,Enabled,module,Magento_Review
@@ -10813,7 +10813,7 @@ Refunded,Refunded,module,Magento_Sales
 Canceled,Canceled,module,Magento_Sales
 "Unknown State","Unknown State",module,Magento_Sales
 "Could not delete the comment.","Could not delete the comment.",module,Magento_Sales
-"Could not save the creditmemo comment.","Could not save the creditmemo comment.",module,Magento_Sales
+"Could not save the creditmemo comment.","Nevar saglabāt kredītrēķina komentāru.",module,Magento_Sales
 "We found an invalid quantity to refund item ""%1"".","We found an invalid quantity to refund item ""%1"".",module,Magento_Sales
 "The creditmemo contains product item that is not part of the original order.","The creditmemo contains product item that is not part of the original order.",module,Magento_Sales
 "The creditmemo contains incorrect product items.","The creditmemo contains incorrect product items.",module,Magento_Sales
@@ -10979,7 +10979,7 @@ Closed,Slēgts,module,Magento_Sales
 "Suspected Fraud","Suspected Fraud",module,Magento_Sales
 "Payment Review","Payment Review",module,Magento_Sales
 New,New,module,Magento_Sales
-"Product doesn't exist","Product doesn't exist",module,Magento_Sales
+"Product doesn't exist","Produkts neeksistē",module,Magento_Sales
 "test message","test message",module,Magento_Sales
 "Email has not been sent","Email has not been sent",module,Magento_Sales
 "Authorized amount of %1","Authorized amount of %1",module,Magento_Sales
@@ -12134,7 +12134,7 @@ Shipments,Shipments,module,Magento_Shipping
 "The order no longer exists.","The order no longer exists.",module,Magento_Shipping
 "Cannot do shipment for the order separately from invoice.","Cannot do shipment for the order separately from invoice.",module,Magento_Shipping
 "Cannot do shipment for the order.","Cannot do shipment for the order.",module,Magento_Shipping
-"Tracking information must contain title, carrier code, and tracking number","Tracking information must contain title, carrier code, and tracking number",module,Magento_Shipping
+"Tracking information must contain title, carrier code, and tracking number","Izsekošanas informācijai jāsatur nosaukumu, pārvadātāja kodu un izsekošanas numuru",module,Magento_Shipping
 "There are no shipping labels related to selected shipments.","There are no shipping labels related to selected shipments.",module,Magento_Shipping
 "Page not found.","Page not found.",module,Magento_Shipping
 "Tracking Information","Izsekošanas informācija",module,Magento_Shipping
@@ -12469,7 +12469,7 @@ Includes,Includes,module,Magento_Staging
 "Start Time","Sākuma laiks",module,Magento_Staging
 "End Time","End Time",module,Magento_Staging
 Description,Apraksts,module,Magento_Staging
-"Invalid store requested.","Invalid store requested.",module,Magento_Store
+"Invalid store requested.","Pieprasīts nepareizs veikals.",module,Magento_Store
 "Current store is not active.","Pašreizējais veikals nav aktīvs.",module,Magento_Store
 "Requested store is not found","Requested store is not found",module,Magento_Store
 "Requested store is inactive","Requested store is inactive",module,Magento_Store
@@ -12763,7 +12763,7 @@ Stores,Veikali,module,Magento_Support
 "Date Generated","Date Generated",module,Magento_Support
 "Report Groups","Report Groups",module,Magento_Support
 "Unknown schema type supplied","Unknown schema type supplied",module,Magento_Swagger
-"Admin is a required field in each row","Admin is a required field in each row",module,Magento_Swatches
+"Admin is a required field in each row","Admin ir obligāts lauks katrā rindā",module,Magento_Swatches
 "Update Product Preview Image","Update Product Preview Image",module,Magento_Swatches
 "Filtering by this attribute will update the product image on catalog page","Filtering by this attribute will update the product image on catalog page",module,Magento_Swatches
 "Use Product Image for Swatch if Possible","Use Product Image for Swatch if Possible",module,Magento_Swatches
@@ -13035,7 +13035,7 @@ Save,Saglabāt,module,Magento_Tax
 "Add New Class","Add New Class",module,Magento_Tax
 "Grand Total Excl. Tax","Grand Total Excl. Tax",module,Magento_Tax
 "Grand Total Incl. Tax","Grand Total Incl. Tax",module,Magento_Tax
-"Not yet calculated","Not yet calculated",module,Magento_Tax
+"Not yet calculated","Vēl nav aprēķināts",module,Magento_Tax
 Taxes,Taxes,module,Magento_Tax
 "Tax Section","Tax Section",module,Magento_Tax
 "Tax Classes","Tax Classes",module,Magento_Tax
@@ -13241,8 +13241,8 @@ Password:,Parole:,module,Magento_Theme
 "Store alternative addresses (for shipping to multiple family members and friends)","Saglabāt vairākas piegādes adreses (lai piegādātu vairākiem ģimenes locekļiem un draugiem)",module,Magento_Theme
 "We could not detect a size.","We could not detect a size.",module,Magento_Theme
 "We don't recognize this file extension.","We don't recognize this file extension.",module,Magento_Theme
-Home,Home,module,Magento_Theme
-"Go to Home Page","Go to Home Page",module,Magento_Theme
+Home,Sākums,module,Magento_Theme
+"Go to Home Page","Iet uz sākumu",module,Magento_Theme
 Empty,Empty,module,Magento_Theme
 "1 column","1 column",module,Magento_Theme
 Configuration,Configuration,module,Magento_Theme
@@ -13311,7 +13311,7 @@ Translations,Tulkojumi,module,Magento_Translation
 "'The XML in file ""%1"" is invalid.' . ""\n%2\nVerify the XML and try again.""","'The XML in file ""%1"" is invalid.' . ""\n%2\nVerify the XML and try again.""",module,Magento_Ui
 .,.,module,Magento_Ui
 "Unsupported bookmark action.","Unsupported bookmark action.",module,Magento_Ui
-"UI component could not be rendered because of system exception","UI component could not be rendered because of system exception",module,Magento_Ui
+"UI component could not be rendered because of system exception","Sistēmas kļūdas dēl lietotāja interfeisa komponents nevar tikt renderēts",module,Magento_Ui
 "The parameter ""class"" is missing. Set the ""class"" and try again.","The parameter ""class"" is missing. Set the ""class"" and try again.",module,Magento_Ui
 "The parameter ""sortOrder"" is missing. Set the ""sortOrder"" and try again.","The parameter ""sortOrder"" is missing. Set the ""sortOrder"" and try again.",module,Magento_Ui
 "The ""%1"" UI component element name is invalid. Verify the name and try again.","The ""%1"" UI component element name is invalid. Verify the name and try again.",module,Magento_Ui
@@ -14412,8 +14412,8 @@ LocalizedException,LocalizedException,module,Magento_Wishlist
 "Product Exception.","Produkta izņēmums.",module,Magento_Wishlist
 "Localized Exception.","Lokalizēts izņēmums.",module,Magento_Wishlist
 "Are you sure you want to remove this item?","Vai tiešām vēlaties nodzēst šo produktu?",module,Magento_Wishlist
-"Special Price","Special Price",module,Magento_Wishlist
-"Regular Price","Regular Price",module,Magento_Wishlist
+"Special Price","Īpaša cena",module,Magento_Wishlist
+"Regular Price","Parastā cena",module,Magento_Wishlist
 "Share Wish List","Koplietot Vēlmju sarakstu",module,Magento_Wishlist
 "Add All to Cart","Pievienot grozam visus",module,Magento_Wishlist
 "Update Wish List","Atjaunot Vēlmju sarakstu",module,Magento_Wishlist
@@ -14568,8 +14568,8 @@ Password:,Parole:,theme,frontend/Magento/luma
 "Order History","Pasūtījumu vēsture",theme,frontend/Magento/luma
 "View past orders","Apskatīt iepriekšējos pasūtījumus",theme,frontend/Magento/luma
 Footer,Kājene,theme,frontend/Magento/luma
-"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>About Us</a>",theme,frontend/Magento/luma
-"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Customer Service</a>",theme,frontend/Magento/luma
+"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>Par mums</a>",theme,frontend/Magento/luma
+"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Klientu Serviss</a>",theme,frontend/Magento/luma
 "<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%store_phone</a>",theme,frontend/Magento/luma
 "Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Darba laiks:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
 "Credit memo for your %store_name order","Credit memo for your %store_name order",theme,frontend/Magento/luma
