@@ -1870,7 +1870,7 @@ Disabled,Izslēgts,module,Magento_Catalog
 "The image doesn't exist.","The image doesn't exist.",module,Magento_Catalog
 "The image type for the file is invalid. Enter the correct image type and try again.","The image type for the file is invalid. Enter the correct image type and try again.",module,Magento_Catalog
 "The ""%1"" file couldn't be moved.","The ""%1"" file couldn't be moved.",module,Magento_Catalog
-"Can't get information about the picture: %1","Can't get information about the picture: %1",module,Magento_Catalog
+"Can't get information about the picture: %1","Nevar iegūt informāciju par attēlu: %1",module,Magento_Catalog
 "The option type to get group instance is incorrect.","Opcijas veids lai iegūtu grupu ir nepareizs.",module,Magento_Catalog
 "Select type options required values rows.","Izvēlieties opcijas veidu obligātās vērtības rindas.",module,Magento_Catalog
 "The ProductSku is empty. Set the ProductSku and try again.","The ProductSku is empty. Set the ProductSku and try again.",module,Magento_Catalog
@@ -7554,14 +7554,14 @@ Total,Kopā,module,Magento_Multishipping
 "The item isn't found, or it's already ordered.","The item isn't found, or it's already ordered.",module,Magento_Multishipping
 "The payment method isn't selected. Enter the payment method and try again.","The payment method isn't selected. Enter the payment method and try again.",module,Magento_Multishipping
 "Some addresses can't be used due to the configurations for specific countries.","Some addresses can't be used due to the configurations for specific countries.",module,Magento_Multishipping
-"Quote address for failed order not found.","Quote address for failed order not found.",module,Magento_Multishipping
-"Exception for failed order not found.","Exception for failed order not found.",module,Magento_Multishipping
+"Quote address for failed order not found.","Kvotas adrese kļūdainiem pasūtījumiem nav atrasta.",module,Magento_Multishipping
+"Exception for failed order not found.","Izņēmums kļūdainiem pasūtījumiem nav atrasts.",module,Magento_Multishipping
 "Select Addresses","Select Addresses",module,Magento_Multishipping
 "Shipping Information","Shipping Information",module,Magento_Multishipping
 "Billing Information","Billing Information",module,Magento_Multishipping
 "Place Order","Veikt pasūtījumu",module,Magento_Multishipping
 "Order Success","Order Success",module,Magento_Multishipping
-"Order Results","Order Results",module,Magento_Multishipping
+"Order Results","Šķirot rezultātus",module,Magento_Multishipping
 "Default Billing","Default Billing",module,Magento_Multishipping
 "Default Shipping","Default Shipping",module,Magento_Multishipping
 "Select Address","Select Address",module,Magento_Multishipping
@@ -7579,7 +7579,7 @@ Actions,Darbības,module,Magento_Multishipping
 "Update Qty &amp; Addresses","Update Qty &amp; Addresses",module,Magento_Multishipping
 "Enter a New Address","Ievadiet jaunu adresi",module,Magento_Multishipping
 "Back to Shopping Cart","Back to Shopping Cart",module,Magento_Multishipping
-Loading...,Loading...,module,Magento_Multishipping
+Loading...,Ielādē...,module,Magento_Multishipping
 "Billing Address","Billing Address",module,Magento_Multishipping
 Change,Change,module,Magento_Multishipping
 "Payment Method","Payment Method",module,Magento_Multishipping
@@ -7590,10 +7590,10 @@ Change,Change,module,Magento_Multishipping
 "Shipping is not applicable.","Shipping is not applicable.",module,Magento_Multishipping
 "Product Name","Produkta nosaukums",module,Magento_Multishipping
 "Check Out with Multiple Addresses","Check Out with Multiple Addresses",module,Magento_Multishipping
-"Please see","Please see",module,Magento_Multishipping
-"details below","details below",module,Magento_Multishipping
-Address,Address,module,Magento_Multishipping
-of,of,module,Magento_Multishipping
+"Please see",Apskatiet,module,Magento_Multishipping
+"details below","informācija zemāk",module,Magento_Multishipping
+Address,Adrese,module,Magento_Multishipping
+of,no,module,Magento_Multishipping
 "Shipping To","Piegādājam uz",module,Magento_Multishipping
 "Shipping Method","Piegādes veids",module,Magento_Multishipping
 "Incl. Tax","Ar PVN",module,Magento_Multishipping
@@ -7606,24 +7606,24 @@ Subtotal,Starpsumma,module,Magento_Multishipping
 Items,Items,module,Magento_Multishipping
 "Grand Total:","Grand Total:",module,Magento_Multishipping
 "Submitting order information...","Submitting order information...",module,Magento_Multishipping
-"Not all items were included.","Not all items were included.",module,Magento_Multishipping
-"For details, see","For details, see",module,Magento_Multishipping
-"Failed to Order","Failed to Order",module,Magento_Multishipping
-"section below","section below",module,Magento_Multishipping
-"For successfully ordered items, you'll receive a confirmation email including order numbers, tracking information, and more details.","For successfully ordered items, you'll receive a confirmation email including order numbers, tracking information, and more details.",module,Magento_Multishipping
-"Successfully Ordered","Successfully Ordered",module,Magento_Multishipping
+"Not all items were included.","Nav iekļauti visi produkti.",module,Magento_Multishipping
+"For details, see","Vairāk informācijas skatīt",module,Magento_Multishipping
+"Failed to Order","Neizdevās izveidot pasūtījumu",module,Magento_Multishipping
+"section below","nākamajā sadaļā",module,Magento_Multishipping
+"For successfully ordered items, you'll receive a confirmation email including order numbers, tracking information, and more details.","Veiksmīgi veicot pasūtījumu Jūs saņemsiet apstiprinājumu kurā būs pasūtījuma numurs, izsekošanas informācija un papildu informācija.",module,Magento_Multishipping
+"Successfully Ordered","Pasūtījums veiksmīgs",module,Magento_Multishipping
 "Ship to:","Ship to:",module,Magento_Multishipping
-"No shipping required.","No shipping required.",module,Magento_Multishipping
-"To purchase these items: Return to the","To purchase these items: Return to the",module,Magento_Multishipping
-"Review page in Checkout","Review page in Checkout",module,Magento_Multishipping
-"resolve any errors, and place a new order.","resolve any errors, and place a new order.",module,Magento_Multishipping
+"No shipping required.","Piegāde nav nepieciešama.",module,Magento_Multishipping
+"To purchase these items: Return to the","Lai nopirktu šos produktus: Atgriezieties uz",module,Magento_Multishipping
+"Review page in Checkout","Pārskata lapa pie Pirkšanas",module,Magento_Multishipping
+"resolve any errors, and place a new order.","izlabot kļūdas un izveidot jaunu pasūtījumu.",module,Magento_Multishipping
 Error:,Error:,module,Magento_Multishipping
 "Address %1 <span>of %2</span>","Address %1 <span>of %2</span>",module,Magento_Multishipping
 "Sorry, no quotes are available for this order right now.","Sorry, no quotes are available for this order right now.",module,Magento_Multishipping
 "Continue to Billing Information","Continue to Billing Information",module,Magento_Multishipping
 "Back to Select Addresses","Back to Select Addresses",module,Magento_Multishipping
-"For successfully order items, you'll receive a confirmation email including order numbers, tracking information and more details.","For successfully order items, you'll receive a confirmation email including order numbers, tracking information and more details.",module,Magento_Multishipping
-"Successfully ordered","Successfully ordered",module,Magento_Multishipping
+"For successfully order items, you'll receive a confirmation email including order numbers, tracking information and more details.","Veiksmīgi veicot pasūtījumu Jūs saņemsiet apstiprinājumu kurā būs pasūtījuma numurs, izsekošanas informācija un papildu informācija.",module,Magento_Multishipping
+"Successfully ordered","Pasūtījums veiksmīgs",module,Magento_Multishipping
 "Continue Shopping","Turpināt iepirkties",module,Magento_Multishipping
 "We can't complete your order because you don't have a payment method set up.","We can't complete your order because you don't have a payment method set up.",module,Magento_Multishipping
 "Please choose a payment method.","Izvēlieties maksāšanas veidu.",module,Magento_Multishipping
@@ -7633,8 +7633,8 @@ Options,Opcijas,module,Magento_Multishipping
 "Allow Shipping to Multiple Addresses","Atļaut piegādi uz vairākām adresēm",module,Magento_Multishipping
 "Maximum Qty Allowed for Shipping to Multiple Addresses","Maksimālais skaits piegādei uz vairākām adresēm",module,Magento_Multishipping
 "Review Order","Pārskatīt pasūtījumu",module,Magento_Multishipping
-"We could only complete part of your order.","We could only complete part of your order.",module,Magento_Multishipping
-"We were unable to complete your order.","We were unable to complete your order.",module,Magento_Multishipping
+"We could only complete part of your order.","Mēs varam izpildīt tikai daļu jūsu pasūtījuma.",module,Magento_Multishipping
+"We were unable to complete your order.","Mēs nevaram izpildīt jūsu pasūtījumu.",module,Magento_Multishipping
 "Select Shipping Method","Izvēlieties piegādes veidu",module,Magento_Multishipping
 "Thank you for your purchase!","Paldies par pirkumu!",module,Magento_Multishipping
 "Message has been rejected: %1","Ziņa tik atteikta: %1",module,Magento_MysqlMq
@@ -8441,8 +8441,8 @@ Purchased,Purchased,module,Magento_Paypal
 "Order Total","Pirkuma summa",module,Magento_Paypal
 "Purchase Point","Purchase Point",module,Magento_Paypal
 "Billing Agreement View","Billing Agreement View",module,Magento_Paypal
-"Are you sure you want to authorize full order amount?","Are you sure you want to authorize full order amount?",module,Magento_Paypal
-Authorize,Authorize,module,Magento_Paypal
+"Are you sure you want to authorize full order amount?","Vai vēlaties autorizēt pilnu pasūtījuma summu?",module,Magento_Paypal
+Authorize,Autorizēt,module,Magento_Paypal
 "View Transaction Details","View Transaction Details",module,Magento_Paypal
 "Reference Information","Reference Information",module,Magento_Paypal
 "Transaction Information","Transaction Information",module,Magento_Paypal
@@ -8469,8 +8469,8 @@ Close,Aizvērt,module,Magento_Paypal
 "We can't cancel the billing agreement.","We can't cancel the billing agreement.",module,Magento_Paypal
 "You deleted the billing agreement.","You deleted the billing agreement.",module,Magento_Paypal
 "We can't delete the billing agreement.","We can't delete the billing agreement.",module,Magento_Paypal
-"Payment authorization has been successfully created.","Payment authorization has been successfully created.",module,Magento_Paypal
-"Unable to make payment authorization.","Unable to make payment authorization.",module,Magento_Paypal
+"Payment authorization has been successfully created.","Maksājuma autorizācija veiksmīgi izveidota.",module,Magento_Paypal
+"Unable to make payment authorization.","Nevar izveidot maksājuma autorizāciju.",module,Magento_Paypal
 Reports,Atskaites,module,Magento_Paypal
 Sales,Pārdošana,module,Magento_Paypal
 "View Transaction","View Transaction",module,Magento_Paypal
@@ -8500,7 +8500,7 @@ Sales,Pārdošana,module,Magento_Paypal
 "Requested payment method does not match with order.","Requested payment method does not match with order.",module,Magento_Paypal
 "Would you like to sign a billing agreement to streamline further purchases with PayPal?","Would you like to sign a billing agreement to streamline further purchases with PayPal?",module,Magento_Paypal
 "The payment couldn't be processed at this time. Please try again later.","The payment couldn't be processed at this time. Please try again later.",module,Magento_Paypal
-"Authorization is not allowed.","Authorization is not allowed.",module,Magento_Paypal
+"Authorization is not allowed.","Autorizācija nav atļauta.",module,Magento_Paypal
 "Payment Gateway is unreachable at the moment. Please use another payment option.","Payment Gateway is unreachable at the moment. Please use another payment option.",module,Magento_Paypal
 "PayPal response hasn't required fields.","PayPal response hasn't required fields.",module,Magento_Paypal
 "Something went wrong while processing your order.","Something went wrong while processing your order.",module,Magento_Paypal
@@ -8761,7 +8761,7 @@ Daily,"Katru dienu",module,Magento_Paypal
 "Yes (PayPal recommends this option)","Yes (PayPal recommends this option)",module,Magento_Paypal
 "Created billing agreement #%1.","Created billing agreement #%1.",module,Magento_Paypal
 "We can't create a billing agreement for this order.","We can't create a billing agreement for this order.",module,Magento_Paypal
-"An invoice cannot be created when none of authorization transactions available.","An invoice cannot be created when none of authorization transactions available.",module,Magento_Paypal
+"An invoice cannot be created when none of authorization transactions available.","Nevar izveidot rēķinu ja nav pieejama neviena autorizācijas transakcija.",module,Magento_Paypal
 "Pending PayPal","Pending PayPal",module,Magento_Paypal
 "PayPal Reversed","PayPal Reversed",module,Magento_Paypal
 "PayPal Canceled Reversal","PayPal Canceled Reversal",module,Magento_Paypal
@@ -8844,8 +8844,8 @@ Fetch,Fetch,module,Magento_Paypal
 Actions,Actions,module,Magento_Paypal
 Manage,Manage,module,Magento_Paypal
 "Place Order Using Billing Agreements","Place Order Using Billing Agreements",module,Magento_Paypal
-Orders,Orders,module,Magento_Paypal
-"Payment Amount Authorization","Payment Amount Authorization",module,Magento_Paypal
+Orders,Pasūtījumi,module,Magento_Paypal
+"Payment Amount Authorization","Maksājuma summas autorizācija",module,Magento_Paypal
 "Merchant Location","Merchant Location",module,Magento_Paypal
 "Merchant Country","Merchant Country",module,Magento_Paypal
 "If not specified, Default Country from General Config will be used","If not specified, Default Country from General Config will be used",module,Magento_Paypal
