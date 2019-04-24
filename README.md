@@ -117,11 +117,13 @@ To download and install Latvian pack manually, you have to access to your server
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/lv_lv/lv_LV.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/lv_lv/`
 
-See this screenshot
+See this screenshot:
 
 ![Latvian pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
+
+This language pack code is: **lv_lv**
 
 #### Step 2: Flush cache
 
