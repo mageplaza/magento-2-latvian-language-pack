@@ -4,6 +4,7 @@
 
 Read more [Magento 2 Latvian Language Pack](https://www.mageplaza.com/magento-2-latvian-language-pack.html)
 
+![Mageplaza Latvian language pack](https://i.imgur.com/qjWPj1W.png)
 
 ## Overview
 
